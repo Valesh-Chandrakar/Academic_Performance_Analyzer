@@ -1,4 +1,8 @@
 // Considering that in 100% weightage ( " 5% for attendance(total delivered 70 ), 25% for CA's (out of 30 marks), 20% for MTE (out of 30 marks), 50% for ETE (out of 60 marks) " )
+// Considering 5% for attendance(total delivered 70 )
+// Considering 25% for CA's (out of 30 marks)
+// Considering 20% for MTE (out of 30 marks)
+// Considering 50% for ETE (out of 60 marks)
 
 #include<iostream>
 #include<string>
